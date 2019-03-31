@@ -2,7 +2,7 @@
 
 ## Analyzing  Data with Python's Pandas  🐼
 
-Notebook viwer:   
+Notebook viewer:   
 
 [View my Noteboook Here](https://nbviewer.jupyter.org/github/bellissima0419/HeroesOfPyMoli/blob/master/HeroesOfPymoli_starter.ipynb
 ) 
